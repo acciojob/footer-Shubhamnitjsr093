@@ -1,1 +1,27 @@
 /* your code here */
+body{
+	background-color:black;
+	color:white
+}
+.link-boxes{
+	display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.logo_name{
+	font-size: 30px;
+}
+.logo-details{
+	 display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.x{
+	color:white;
+}
+.bottom-details{
+	display: flex;
+    align-items: center;
+    justify-content: space-between;
+	background:gray
+}
